@@ -1,4 +1,4 @@
-# ZddLines
+# ZDDLines
 A simultaneous solution to a constrained shortest and longest s-t path problem based on the zero-suppressed binary decision diagram
 
 The folder Leg One contains experiments in solving common combinatorial problems,
